@@ -7,13 +7,10 @@ This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplat
 This project uses many tools like:
 
 - [ReactJS](https://reactjs.org)
-- [React Query](https://react-query.tanstack.com/)
-- [React Location](https://react-location.tanstack.com/)
 - [Vite](https://vitejs.dev)
 - [TypeScript](https://www.typescriptlang.org)
 - [Vitest](https://vitest.dev/)
 - [Testing Library](https://testing-library.com)
-- [Cypress](https://docs.cypress.io/)
 - [Tailwindcss](https://tailwindcss.com)
 - [Storybook](https://storybook.js.org/)
 - [Eslint](https://eslint.org)
@@ -26,7 +23,7 @@ This project uses many tools like:
 Create the project.
 
 ```bash
-npx degit himorishige/reactjs-vite-tailwindcss-boilerplate my-app
+npx degit -mode=git cm-cxlabs/frontend-bootcamp/react-vite-boilerplate my-app
 ```
 
 Access the project directory.
@@ -69,20 +66,4 @@ yarn test
 
 ```bash
 yarn storybook
-```
-
-### Cypress
-
-#### setup
-
-```bash
-cd e2e
-yarn install
-```
-
-```bash
-cd e2e
-yarn cy:open
-or
-yarn cy:run
 ```
