@@ -54,6 +54,8 @@ Classmethod CX アーキテクトチームによるReact学習用の教材です
 
 ## アプリケーションのイメージ
 
+![125216126-25dded00-e2f8-11eb-8c4f-9f8820b5c1a2](https://user-images.githubusercontent.com/71954454/201236023-8580338e-1c35-4318-890d-9c1966d553be.png)
+
 ## Getting Started
 
 ### Install
