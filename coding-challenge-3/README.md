@@ -67,7 +67,7 @@ Classmethod CX アーキテクトチームによるReact学習用の教材です
 Create the project.
 
 ```bash
-npx degit -mode=git cm-cxlabs/frontend-bootcamp/react-vite-boilerplate my-app
+npx degit --mode=git cm-cxlabs/frontend-bootcamp/react-vite-boilerplate my-app
 ```
 
 Access the project directory.
