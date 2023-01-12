@@ -23,7 +23,7 @@ This project uses many tools like:
 Create the project.
 
 ```bash
-npx degit -mode=git cm-cxlabs/frontend-bootcamp/react-vite-boilerplate my-app
+npx degit --mode=git cm-cxlabs/frontend-bootcamp/react-vite-boilerplate my-app
 ```
 
 Access the project directory.
